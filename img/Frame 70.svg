@@ -1,0 +1,38 @@
+<svg width="401" height="432" viewBox="0 0 401 432" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_190_4)">
+<rect width="400" height="222" fill="white"/>
+<rect x="41" width="320" height="20" fill="#1DA800"/>
+<rect x="41" y="198" width="320" height="24" fill="#1DA800"/>
+<rect x="41" y="20" width="178" height="40" transform="rotate(90 41 20)" fill="#1DA800"/>
+<rect x="401" y="20" width="178" height="40" transform="rotate(90 401 20)" fill="#1DA800"/>
+</g>
+<g clip-path="url(#clip1_190_4)">
+<rect width="400" height="110" transform="translate(0 222)" fill="white"/>
+<rect x="41" y="222" width="320" height="20" fill="#1DA800"/>
+<rect x="41" y="308" width="320" height="24" fill="#1DA800"/>
+<rect x="41" y="242" width="66" height="40" transform="rotate(90 41 242)" fill="#1DA800"/>
+<rect x="401" y="242" width="66" height="40" transform="rotate(90 401 242)" fill="#1DA800"/>
+</g>
+<g clip-path="url(#clip2_190_4)">
+<rect width="400" height="100" transform="translate(0 332)" fill="white"/>
+<rect x="20.1475" y="352.362" width="59" height="20" transform="rotate(90 20.1475 352.362)" fill="#1DA800"/>
+<rect x="179.147" y="432.362" width="159" height="21" transform="rotate(-180 179.147 432.362)" fill="#1DA800"/>
+<rect x="179.147" y="352.362" width="159" height="20" transform="rotate(-180 179.147 352.362)" fill="#1DA800"/>
+<rect x="200.147" y="352.362" width="59" height="21" transform="rotate(90 200.147 352.362)" fill="#1DA800"/>
+<rect x="219.5" y="352.362" width="59" height="20" transform="rotate(90 219.5 352.362)" fill="#1DA800"/>
+<rect x="378.5" y="432.362" width="159" height="21" transform="rotate(-180 378.5 432.362)" fill="#1DA800"/>
+<rect x="378.5" y="352.362" width="159" height="20" transform="rotate(-180 378.5 352.362)" fill="#1DA800"/>
+<rect x="399.5" y="352.362" width="59" height="21" transform="rotate(90 399.5 352.362)" fill="#1DA800"/>
+</g>
+<defs>
+<clipPath id="clip0_190_4">
+<rect width="400" height="222" fill="white"/>
+</clipPath>
+<clipPath id="clip1_190_4">
+<rect width="400" height="110" fill="white" transform="translate(0 222)"/>
+</clipPath>
+<clipPath id="clip2_190_4">
+<rect width="400" height="100" fill="white" transform="translate(0 332)"/>
+</clipPath>
+</defs>
+</svg>
